@@ -12,8 +12,9 @@ Manage employee records: list staff, search by ID, and filter by work experience
 این پروژه تمرین کاملی است برای کار با دیکشنری‌های تو در تو، پیمایش داده‌ها، جستجو و فیلتر اطلاعات و نمایش داده‌ها به شکل خوانا و ساختارمند."**
 
 Translate 
+"This program implements an employee information management system using nested dictionaries in Python. 
 
-Python. The data structure uses employee ID as the key and stores personal details such as first name, last name, job title, years of experience, and salary as values. The program provides the following features:
+The data structure uses employee ID as the key and stores personal details such as first name, last name, job title, years of experience, and salary as values. The program provides the following features:
 
 List all employees: Extracts and displays each employee’s name, surname, and full details in a structured format.
 
